@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190710T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-07-10@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190925T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-09-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191127T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-11-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190626T170000Z
+SUMMARY:Olomoucké Pyvo – Ako bolo na Pyconcz 2019
+DESCRIPTION:Ahoj!\n\npo mesačnej odmlke tu máme dalše pyvo. Tentokrát si povieme ako bolo na Pycone v Ostrave.\n\nA nebude chybět přesunutá přednáška z minula o tom\, jak na elektroniku s Pythonem pro začátečníky.\n\nPokud máte nějakou přednášku či téma na příště\, dejte nám vědět v\n[mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).\nA přidejte se do mailing listu pro aktuální info.\n\nTěšíme se na vaši hojnou účast!\n
+LOCATION:Picolo - Pirátské centrum Olomouc\, 8. května 522/5\, Olomouc\, 77900\, Olomouc
+URL:https://pyvo.cz/olomouc-pyvo/2019-06/
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-06-26@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190911T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-09-11@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191113T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-11-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190821T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-08-21@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190807T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-08-07@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191016T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-10-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191030T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-10-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190828T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-08-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20190610T085740Z
+LAST-MODIFIED:20190610T085740Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20190624T234100Z
+DTSTART;VALUE=DATE:20190823
+DTEND:20190827T000000Z
+SUMMARY:Letní sprint Mšené–lázně
+LOCATION:Mšené-lázně
+TRANSP:TRANSPARENT
+UID:5hh5j048gbss0iaju17rb8k64n@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190629T070000Z
+SUMMARY:GUI s PyQT
+LOCATION:FI MUNI\, místnost S505\, Botanická 68a\, Brno
+URL:https://pyworking.cz/workshops/20190629_gui_pyqt
+TRANSP:OPAQUE
+UID:20190629_gui_pyqt@pyworking.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191002T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-10-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190725T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-07-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190926T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-09-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191128T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-11-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190627T170000Z
+SUMMARY:Brněnské Pyvo – Maticové
+DESCRIPTION:Co jsou to matice a na co se používají? Suchá teorie a nudná matematika\,\nnebo mohou i bavit?\n\nPřijďte se podívat na přednášky a dozvědět se\, co vlastně matice jsou\, jak\nse používají a na co jsou užitečné.\n---\nWhat are matrices\, exactly\, and what are they used for? Plain theory and\nboring mathematics\, or can they be enjoyable too?\n\nCome and see talks on what matrices are\, how are they used\, and what are\nthey useful for.\n
+LOCATION:ArtBar Druhý Pád\, Štefánikova 836/1\, Brno
+URL:https://pyvo.cz/brno-pyvo/2019-06/
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-06-27@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Czech Python Events;X-NUM-GUESTS=0:mailto:kfdeelic1a13jsp7jvai861vfs@group.calendar.google.com
+CREATED:20190614T140031Z
+LAST-MODIFIED:20190624T175542Z
+SEQUENCE:1
+STATUS:CONFIRMED
+DTSTAMP:20190624T234100Z
+DTSTART:20190626T160000Z
+DTEND:20190626T190000Z
+SUMMARY:PyLadies Praha - zhodnocení kurzů
+LOCATION:Zapomenutý Čas\, Anglická 658/23\, 120 00 Praha-Vinohrady\, Česko
+TRANSP:OPAQUE
+UID:6h2pissaprod4gf089h55raqeg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190717T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-07-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190904T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-09-04@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191120T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-11-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190731T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-07-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190918T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-09-18@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190703T160000Z
+SUMMARY:Ostravské Pyvo – Letní kino #1
+DESCRIPTION:Po vzoru let minulých se v červenci společně podíváme do letního kina\,\nkteré opět promítá každou prázdninovou středu na jiném místě ve Frýdku-\nMístku a okolí.\n\nPyvo začne v 18:00 na cyklostezce mezi Ostravou a Frýdkem v Coolárně ve\nVratimově. Po osmé večerní se společně vydáme na cca 15km trasu do\nautokempu u Olešné\, kde ve 21:15 začně promítání animovaného filmu\nRaubíř Ralf a internet.\n\n* [Letní kino ve Frýdku-Místku](http://www.kulturafm.cz/aktuality/856-kino-na-vylete-2019)\n* [Trasa na mapy.cz](https://mapy.cz/s/2JuvS)\n* [Raubíř Ralf a internet na csfd.cz](https://www.csfd.cz/film/443901-raubir-ralf-a-internet/prehled/)\n\nV případě velmi nepříznivého počasí vymyslíme náhradní plán. Sledujte\n[meetup.com](https://www.meetup.com/Ostravske-Pyvo/events/262533506/) pro případné aktualizace.\n\nTěšíme se na vás.\n
+LOCATION:Coolárna Vratimov\, Na Slezance 973/11\, Vratimov
+URL:https://pyvo.cz/ostrava-pyvo/2019-07/
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-07-03@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191031T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-10-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20191106T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-11-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190624T234100Z
+DTSTART:20190829T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-08-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190611T081834Z
+LAST-MODIFIED:20190611T081834Z
+DTSTAMP:20190624T234100Z
+DTSTART:20190708T160000Z
+DTEND:20190708T180000Z
+SUMMARY:PyWorking session #82
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/262220883/
+TRANSP:OPAQUE
+UID:event_262220883@meetup.com
+CATEGORIES:Computer programming,Technology Professionals,Web Technology,Python,Open Source,Women in Technology
+END:VEVENT
+END:VCALENDAR
