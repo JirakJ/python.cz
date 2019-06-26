@@ -1012,6 +1012,17 @@
                 "type": "Point",                
 	        "coordinates": [16.594788, 49.224163]
             }
-        }
+        },
+	{
+            "type": "Feature",
+            "properties": {
+                "name": "Jakub Jirák",
+                "url": "https://www.jakubjirak.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.568, 15.559]
+            }
+        },
     ]
 }
